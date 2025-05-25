@@ -1,0 +1,247 @@
+[
+  {
+    "id": "66d088dd9d2345c0b05f690cd4caf515",
+    "title": "db Parsed Layer",
+    "layerType": "GroupLayer",
+    "layers": [
+      {
+        "id": 0,
+        "title": "P_Waypoints_3",
+        "url": "https://services9.arcgis.com/i6zc62XtWtjVsKhw/arcgis/rest/services/wb_db_20250520195528/FeatureServer/0",
+        "itemId": "66d088dd9d2345c0b05f690cd4caf515",
+        "layerType": "ArcGISFeatureLayer",
+        "fieldInfos": []
+      },
+      {
+        "id": 1,
+        "title": "P_WYJackalopeOptimized6007MWGE282127RD89HH213T30AltsShapefile20230303_3",
+        "url": "https://services9.arcgis.com/i6zc62XtWtjVsKhw/arcgis/rest/services/wb_db_20250520195528/FeatureServer/1",
+        "itemId": "66d088dd9d2345c0b05f690cd4caf515",
+        "layerType": "ArcGISFeatureLayer",
+        "fieldInfos": []
+      },
+      {
+        "id": 2,
+        "title": "P_peconstructioncircuitgroups6_3",
+        "url": "https://services9.arcgis.com/i6zc62XtWtjVsKhw/arcgis/rest/services/wb_db_20250520195528/FeatureServer/2",
+        "itemId": "66d088dd9d2345c0b05f690cd4caf515",
+        "layerType": "ArcGISFeatureLayer",
+        "fieldInfos": []
+      },
+      {
+        "id": 3,
+        "title": "P_peconstructioncircuitgroups90_3",
+        "url": "https://services9.arcgis.com/i6zc62XtWtjVsKhw/arcgis/rest/services/wb_db_20250520195528/FeatureServer/3",
+        "itemId": "66d088dd9d2345c0b05f690cd4caf515",
+        "layerType": "ArcGISFeatureLayer",
+        "fieldInfos": []
+      }
+    ]
+  },
+  {
+    "id": "190a3a35cec-layer-36",
+    "title": "General Items",
+    "layerType": "GroupLayer",
+    "layers": []
+  },
+  {
+    "id": "190a3a2f81b-layer-35",
+    "title": "Collection Items",
+    "layerType": "GroupLayer",
+    "layers": [
+      {
+        "id": "190a372d3ab-layer-11",
+        "title": "Collection - Overhead",
+        "url": "https://services9.arcgis.com/i6zc62XtWtjVsKhw/arcgis/rest/services/db Estimating Layer/FeatureServer/18",
+        "layerType": "ArcGISFeatureLayer",
+        "itemId": "c3ff0d5696e44de7b4edc3a8389dac6c",
+        "formInfo": {},
+        "popupInfo": {}
+      },
+      {
+        "id": "190a372d3ac-layer-12",
+        "title": "Collection - Underground Layout",
+        "url": "https://services9.arcgis.com/i6zc62XtWtjVsKhw/arcgis/rest/services/db Estimating Layer/FeatureServer/17",
+        "layerType": "ArcGISFeatureLayer",
+        "itemId": "c3ff0d5696e44de7b4edc3a8389dac6c",
+        "formInfo": {},
+        "popupInfo": {}
+      },
+      {
+        "id": "190a372d3ac-layer-13",
+        "title": "Collection - Bore Locations",
+        "url": "https://services9.arcgis.com/i6zc62XtWtjVsKhw/arcgis/rest/services/db Estimating Layer/FeatureServer/16",
+        "layerType": "ArcGISFeatureLayer",
+        "itemId": "c3ff0d5696e44de7b4edc3a8389dac6c",
+        "popupInfo": {}
+      },
+      {
+        "id": "190a372d3ac-layer-14",
+        "title": "Collection - Crossings",
+        "url": "https://services9.arcgis.com/i6zc62XtWtjVsKhw/arcgis/rest/services/db Estimating Layer/FeatureServer/15",
+        "layerType": "ArcGISFeatureLayer",
+        "itemId": "c3ff0d5696e44de7b4edc3a8389dac6c",
+        "popupInfo": {}
+      },
+      {
+        "id": "190a372d3ac-layer-15",
+        "title": "Collection - Junction Box",
+        "url": "https://services9.arcgis.com/i6zc62XtWtjVsKhw/arcgis/rest/services/db Estimating Layer/FeatureServer/14",
+        "layerType": "ArcGISFeatureLayer",
+        "itemId": "c3ff0d5696e44de7b4edc3a8389dac6c",
+        "popupInfo": {}
+      }
+    ]
+  },
+  {
+    "id": "190a37601e6-layer-34",
+    "title": "Crane Path Items",
+    "layerType": "GroupLayer",
+    "layers": [
+      {
+        "id": "190a372d3ad-layer-16",
+        "title": "Crane Pods",
+        "url": "https://services9.arcgis.com/i6zc62XtWtjVsKhw/arcgis/rest/services/db Estimating Layer/FeatureServer/13",
+        "layerType": "ArcGISFeatureLayer",
+        "itemId": "c3ff0d5696e44de7b4edc3a8389dac6c",
+        "popupInfo": {}
+      },
+      {
+        "id": "190a372d3ad-layer-17",
+        "title": "Crane Path - Line",
+        "url": "https://services9.arcgis.com/i6zc62XtWtjVsKhw/arcgis/rest/services/db Estimating Layer/FeatureServer/12",
+        "layerType": "ArcGISFeatureLayer",
+        "itemId": "c3ff0d5696e44de7b4edc3a8389dac6c",
+        "formInfo": {},
+        "popupInfo": {}
+      },
+      {
+        "id": "190a372d3ad-layer-18",
+        "title": "Crane Path - Breakdown",
+        "url": "https://services9.arcgis.com/i6zc62XtWtjVsKhw/arcgis/rest/services/db Estimating Layer/FeatureServer/11",
+        "layerType": "ArcGISFeatureLayer",
+        "itemId": "c3ff0d5696e44de7b4edc3a8389dac6c",
+        "popupInfo": {}
+      },
+      {
+        "id": "190a372d3ad-layer-19",
+        "title": "Crane Path - Crossings",
+        "url": "https://services9.arcgis.com/i6zc62XtWtjVsKhw/arcgis/rest/services/db Estimating Layer/FeatureServer/10",
+        "layerType": "ArcGISFeatureLayer",
+        "itemId": "c3ff0d5696e44de7b4edc3a8389dac6c",
+        "popupInfo": {}
+      }
+    ]
+  },
+  {
+    "id": "190a373190f-layer-30",
+    "title": "Civil Items",
+    "layerType": "GroupLayer",
+    "layers": [
+      {
+        "id": "190a375466c-layer-33",
+        "title": "SWPP",
+        "layers": [
+          {
+            "id": "190a372d3ad-layer-20",
+            "title": "SWPPP - Area",
+            "url": "https://services9.arcgis.com/i6zc62XtWtjVsKhw/arcgis/rest/services/db Estimating Layer/FeatureServer/9",
+            "itemId": "c3ff0d5696e44de7b4edc3a8389dac6c",
+            "layerType": "ArcGISFeatureLayer",
+            "popupInfo": {}
+          },
+          {
+            "id": "190a372d3ad-layer-21",
+            "title": "SWPPP - Line",
+            "url": "https://services9.arcgis.com/i6zc62XtWtjVsKhw/arcgis/rest/services/db Estimating Layer/FeatureServer/8",
+            "itemId": "c3ff0d5696e44de7b4edc3a8389dac6c",
+            "layerType": "ArcGISFeatureLayer",
+            "popupInfo": {},
+            "formInfo": {}
+          },
+          {
+            "id": "190a372d3ae-layer-22",
+            "title": "SWPPP - pt",
+            "url": "https://services9.arcgis.com/i6zc62XtWtjVsKhw/arcgis/rest/services/db Estimating Layer/FeatureServer/7",
+            "itemId": "c3ff0d5696e44de7b4edc3a8389dac6c",
+            "layerType": "ArcGISFeatureLayer",
+            "popupInfo": {}
+          }
+        ],
+        "layerType": "GroupLayer"
+      },
+      {
+        "id": "190a37437f8-layer-32",
+        "title": "Public Roads",
+        "layers": [
+          {
+            "id": "190a372d3ae-layer-23",
+            "title": "Civil - Public Road Intersection",
+            "url": "https://services9.arcgis.com/i6zc62XtWtjVsKhw/arcgis/rest/services/db Estimating Layer/FeatureServer/6",
+            "itemId": "c3ff0d5696e44de7b4edc3a8389dac6c",
+            "layerType": "ArcGISFeatureLayer",
+            "popupInfo": {}
+          },
+          {
+            "id": "190a372d3ae-layer-24",
+            "title": "Civil - Public Road Crossings",
+            "url": "https://services9.arcgis.com/i6zc62XtWtjVsKhw/arcgis/rest/services/db Estimating Layer/FeatureServer/5",
+            "itemId": "c3ff0d5696e44de7b4edc3a8389dac6c",
+            "layerType": "ArcGISFeatureLayer",
+            "popupInfo": {}
+          },
+          {
+            "id": "190a372d3ae-layer-25",
+            "title": "Civil - Public Road - Lines",
+            "url": "https://services9.arcgis.com/i6zc62XtWtjVsKhw/arcgis/rest/services/db Estimating Layer/FeatureServer/4",
+            "itemId": "c3ff0d5696e44de7b4edc3a8389dac6c",
+            "layerType": "ArcGISFeatureLayer",
+            "popupInfo": {},
+            "formInfo": {}
+          }
+        ],
+        "layerType": "GroupLayer"
+      },
+      {
+        "id": "190a3737a91-layer-31",
+        "title": "Access Roads",
+        "layers": [
+          {
+            "id": "190a372d3ae-layer-26",
+            "title": "Civil - Pull off/Lay-By",
+            "url": "https://services9.arcgis.com/i6zc62XtWtjVsKhw/arcgis/rest/services/db Estimating Layer/FeatureServer/3",
+            "itemId": "c3ff0d5696e44de7b4edc3a8389dac6c",
+            "layerType": "ArcGISFeatureLayer",
+            "popupInfo": {}
+          },
+          {
+            "id": "190a372d3af-layer-27",
+            "title": "Civil - Entrance From Public Road",
+            "url": "https://services9.arcgis.com/i6zc62XtWtjVsKhw/arcgis/rest/services/db Estimating Layer/FeatureServer/2",
+            "itemId": "c3ff0d5696e44de7b4edc3a8389dac6c",
+            "layerType": "ArcGISFeatureLayer",
+            "popupInfo": {}
+          },
+          {
+            "id": "190a372d3af-layer-28",
+            "title": "Civil - Access Road Crossings",
+            "url": "https://services9.arcgis.com/i6zc62XtWtjVsKhw/arcgis/rest/services/db Estimating Layer/FeatureServer/1",
+            "itemId": "c3ff0d5696e44de7b4edc3a8389dac6c",
+            "layerType": "ArcGISFeatureLayer",
+            "popupInfo": {}
+          },
+          {
+            "id": "190a372d3af-layer-29",
+            "title": "Civil - Access Road",
+            "url": "https://services9.arcgis.com/i6zc62XtWtjVsKhw/arcgis/rest/services/db Estimating Layer/FeatureServer/0",
+            "itemId": "c3ff0d5696e44de7b4edc3a8389dac6c",
+            "layerType": "ArcGISFeatureLayer",
+            "popupInfo": {},
+            "formInfo": {}
+          }
+        ],
+        "layerType": "GroupLayer"
+      }
+    ]
+  }
+]
